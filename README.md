@@ -1,5 +1,7 @@
 # CalisthenicsCASA0018
 
+Edge Impulse Link: https://studio.edgeimpulse.com/public/656103/live
+
 ## Calisthenics Exercise Deep Learning Model
 
 ### Introduction
